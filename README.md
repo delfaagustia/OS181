@@ -7,3 +7,6 @@ ZCZC demo Week04
 ZCZX demo week05
 ZCZC demo Week06
 ZCZC demo Week07
+ZCZC demo Week08
+ZCZC demo Week09
+ZCZC demo Week10
